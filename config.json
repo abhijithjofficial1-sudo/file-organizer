@@ -1,0 +1,8 @@
+{
+  "Photos": [".jpg", ".jpeg", ".png", ".heic"],
+  "Work Documents": [".pdf", ".docx", ".xlsx"],
+  "Videos": [".mp4", ".mov", ".avi"],
+  "Music": [".mp3", ".flac", ".wav"],
+  "Design Files": [".psd", ".ai", ".sketch", ".fig"]
+}
+
